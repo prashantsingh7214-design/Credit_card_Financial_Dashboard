@@ -1,7 +1,11 @@
 # Credit_card_Financial_Dashboard
 Power BI Dashboard
 Project Objective --To Built an end-to-end Credit Card Business Intelligence Dashboard using SQL and Power BI to identify revenue drivers, customer spending behavior, card usage trends, and demographic insights for strategic business planning.
+
+
 Dataset - Financial Dataset
+
+
 Overall Business Insights --
 >>> Blue Cards dominate the business and account for the vast majority of revenue.
 >>> Bills, entertainment, and fuel are the leading spending categories.
